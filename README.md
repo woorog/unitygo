@@ -7,3 +7,7 @@
 - **Unity 버전**: Unity 에디터 버전 6000.0.31f1
 - **Mirror 네트워킹 프레임워크**: Unity Asset Store에서 설치
 - **플랫폼**: Windows, Mac, Linux
+
+## 1.1v
+<img width="968" alt="스크린샷 2024-12-26 오후 5 59 41" src="https://github.com/user-attachments/assets/fb1ec9a0-136a-4a30-8794-90d72e040298" />
+버림패구현
