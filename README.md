@@ -24,3 +24,8 @@
 ## 1.5v
 로비 네트워크 연결
 ## 1.6v
+
+
+https://github.com/user-attachments/assets/df4fe2c7-4184-46b5-84ec-0be56569a00b
+
+애니메이션 추가 
