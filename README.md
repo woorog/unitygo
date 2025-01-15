@@ -29,5 +29,10 @@
 https://github.com/user-attachments/assets/df4fe2c7-4184-46b5-84ec-0be56569a00b
 
 애니메이션 추가 
+
+
+
+
+앞으로
 https://github.com/Hot6Maina/MCR-Masters
 여기서 진행
